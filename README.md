@@ -1,0 +1,2 @@
+# bakedbeans
+Staking project - ROI
